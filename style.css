@@ -9,20 +9,30 @@ body {
 }
 
 .header {
-   background-color:  #ebebeb
+   background-color:  #ebebeb;
+   padding: 20px;
+   margin: 20px
 }
 
 .nav {
-    background-color:  #ebebeb
+    background-color:  #ebebeb;
+    padding: 20px;
+    margin: 10px;
 }
 
 .section {
     background-color:  #ebebeb;
-    float: left;
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+    position: relative; 
+    top: -50px;
+    right: -50px
+
 }
 
 .article {
-    background-color: #777;
+    background-color: red;
 }
 
 .h {
