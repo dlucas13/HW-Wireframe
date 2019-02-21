@@ -8,7 +8,7 @@ body {
     margin: 0 auto;
 }
 
-.header {
+header {
    background-color:  #ebebeb;
    padding: 20px;
    margin: 20px; 
@@ -16,65 +16,77 @@ body {
 }
 
 .nav {
-    background-color:  #ebebeb;
-    padding: 20px;
+    background-color: #ebebeb;
+    padding: 32px;
     margin: 20px;
     text-align: center;
 }
 
 .section {
-    background-color:  #ebebeb;
+    background-color: #ebebeb;
     text-align: center;
     width: 495px;
     height: 200px;
     padding: 20px;
-    position: relative; 
-    top: -235px;
-    right: -20px
-
+    position: relative;
+    top: -3px;
+    right: -20px;
 }
 
 .article {
     background-color: darkgrey;
     text-align: center;
-    width: 475px;
+    border: 28px;
+    width: 460px;
+    height: 140px;
     padding: 20px;
     position: relative;
-
+    top: -200px;
+    right: -37px;
+    color: white;
 }
 
+
 .h {
-    background-color:  #ebebeb;
+    background-color: #ebebeb;
     text-align: center;
     padding: 15px;
     width: 400px;
     position: relative;
+    top: -272px;
+    right: -75px;
 }
 
 .p {
-    background-color:  #ebebeb;
+    background-color: #ebebeb;
     text-align: center;
     width: 400px;
     padding: 15px;
     position: relative;
-
+    top: -385px;
+    right: -74px;
 }
 
 .aside {
-    background-color:  #ebebeb;
+    height: 200px;
+    float: left;
+    top: -523px;
+    background-color: #ebebeb;
     text-align: center;
     margin-left: 500px;
     padding: 20px;
     width: 324px;
     position: relative;
+    right: -74px;
 }
 
-.footer {
-    background-color:  #ebebeb;
+footer {
+    background-color: #ebebeb;
     text-align: center;
     margin: 20px;
-    padding: 20px;
+    padding: 24px;
     position: relative;
+    top: -291px;
 }
 
 
