@@ -11,13 +11,15 @@ body {
 .header {
    background-color:  #ebebeb;
    padding: 20px;
-   margin: 20px
+   margin: 20px; 
+   text-align: center;
 }
 
 .nav {
     background-color:  #ebebeb;
     padding: 20px;
     margin: 20px;
+    text-align: center;
 }
 
 .section {
@@ -33,23 +35,28 @@ body {
 }
 
 .article {
-    background-color: red;
+    background-color: darkgrey;
+    text-align: center;
 }
 
 .h {
     background-color:  #ebebeb;
+    text-align: center;
 }
 
 .p {
     background-color:  #ebebeb;
+    text-align: center
 }
 
 .aside {
     background-color:  #ebebeb;
+    text-align: center
 }
 
 .footer {
     background-color:  #ebebeb;
+    text-align: center;
 }
 
 
