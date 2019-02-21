@@ -37,26 +37,39 @@ body {
 .article {
     background-color: darkgrey;
     text-align: center;
+    width: 475px;
+    padding: 20px
+
 }
 
 .h {
     background-color:  #ebebeb;
     text-align: center;
+    padding: 15px;
+    width: 400px
 }
 
 .p {
     background-color:  #ebebeb;
-    text-align: center
+    text-align: center;
+    width: 400px;
+    padding: 15px;
+
 }
 
 .aside {
     background-color:  #ebebeb;
-    text-align: center
+    text-align: center;
+    margin-left: 500px;
+    padding: 20px;
+    width: 324px
 }
 
 .footer {
     background-color:  #ebebeb;
     text-align: center;
+    margin: 20px;
+    padding: 20px
 }
 
 
